@@ -1,0 +1,6 @@
+{
+  "name": "MCQ Test Studio for Google Sheets & Apps Script",
+  "description": "Create, simulate, and export online MCQ tests powered by Google Apps Script, Google Sheets, LaTeX Math equations, and Google Drive images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
